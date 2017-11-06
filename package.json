@@ -1,0 +1,28 @@
+{
+  "name": "slackkit",
+  "version": "0.0.1",
+  "description": "The most simple Slack message api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothyverhaeghe/slackkit.git"
+  },
+  "keywords": [
+    "Slack",
+    "Message",
+    "logs"
+  ],
+  "author": "Timothy Verhaeghe <me@timothyverhaeghe.com> (timothyverhaeghe.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timothyverhaeghe/slackkit/issues"
+  },
+  "homepage": "https://github.com/timothyverhaeghe/slackkit#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "request": "^2.83.0"
+  }
+}
