@@ -1,6 +1,6 @@
 {
   "name": "slackkit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The most simple Slack message api",
   "main": "index.js",
   "scripts": {
